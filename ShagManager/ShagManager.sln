@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShagManager", "ShagManager\ShagManager.csproj", "{94D15998-D9C7-45D1-B806-ABB5E328AA38}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShagClient", "ShagClient\ShagClient.csproj", "{17AA7369-3F79-4A4E-8F94-C358C4A2E8A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataValidate", "DataValidate\DataValidate.csproj", "{CEF893E0-5ED5-447F-9714-2E67481037D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForManager", "ForManager\ForManager.csproj", "{FA3C64AE-EF1F-4F5E-BE17-B811C2400D7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CEF893E0-5ED5-447F-9714-2E67481037D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEF893E0-5ED5-447F-9714-2E67481037D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEF893E0-5ED5-447F-9714-2E67481037D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3C64AE-EF1F-4F5E-BE17-B811C2400D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3C64AE-EF1F-4F5E-BE17-B811C2400D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3C64AE-EF1F-4F5E-BE17-B811C2400D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3C64AE-EF1F-4F5E-BE17-B811C2400D7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
